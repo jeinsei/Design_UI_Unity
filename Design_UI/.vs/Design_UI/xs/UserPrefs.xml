@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F8C9F234-F1D5-7529-B467-EFD1C3D457E6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_SCRIPTS/ManagerScript.cs">
+    <Files>
+      <File FileName="Assets/_SCRIPTS/ManagerScript.cs" Line="84" Column="9" />
+      <File FileName="Assets/BLUR.shader" Line="7" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
